@@ -1,0 +1,16 @@
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding:5px;
+}
+
+body{
+    background-color:bisque;
+}
+
+
+#turnsLeft{
+    clear:both;
+    float:left;
+    font-weight:bold;
+}
